@@ -1,4 +1,4 @@
-makusu.github.com
+Max Meiden Dasuki
 =================
 
-Github page of makusu
+Code for http://www.maxmeidendasuki.com/
